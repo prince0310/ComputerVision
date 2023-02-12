@@ -2,7 +2,7 @@
 
 ##### Use a trained YOLOv8n model to run predictions on images.
 
-###### clone the repositorary
+###### Down load the weights and reqired file 
 
 ``` git clone ```
 
